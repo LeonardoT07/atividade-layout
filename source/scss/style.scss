@@ -1,0 +1,27 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+
+/*só para ver o bloco*/
+.box {	
+	border: 1px solid orange;
+}
+
+.container {
+	padding: 15px;
+}
+
+img#logo {
+	max-width: 70px;
+	max-height: 70px;
+}
+
+a#saiba-mais{
+	text-decoration: underline;
+}
